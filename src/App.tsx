@@ -3,8 +3,7 @@ import { Components } from './Components'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 
-// TODO
-// import '@tremolo-ui/react/styles/index.css'
+import '@tremolo-ui/react/styles/index.css'
 import './App.css'
 
 function App() {
